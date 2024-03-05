@@ -1,113 +1,113 @@
 const seedThoughts = [
   {
     thoughtText: "This is a sample thought about something interesting.",
-    username: "Yennefer",
+    username: "Jerry",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Triss",
+        username: "George",
       },
       {
         reactionBody: "😄",
-        username: "Ciri",
+        username: "Kramer",
       },
     ],
   },
   {
     thoughtText: "This is a sample thought about something else interesting.",
-    username: "Triss",
+    username: "George",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Yennefer",
+        username: "Jerry",
       },
       {
         reactionBody: "😄",
-        username: "Ciri",
+        username: "Kramer",
       },
     ],
   },
   {
     thoughtText: "This is a sample thought about something else interesting.",
-    username: "Ciri",
+    username: "Kramer",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Yennefer",
+        username: "Jerry",
       },
       {
         reactionBody: "😄",
-        username: "Triss",
+        username: "George",
       },
     ],
   },
   {
     thoughtText: "This is a sample thought about something else interesting.",
-    username: "Geralt",
+    username: "Elaine",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Yennefer",
+        username: "Jerry",
       },
       {
         reactionBody: "😄",
-        username: "Triss",
+        username: "George",
       },
     ],
   },
   {
     thoughtText: "This is a sample thought about something else interesting.",
-    username: "Yennefer",
+    username: "Jerry",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Triss",
+        username: "George",
       },
       {
         reactionBody: "😄",
-        username: "Ciri",
+        username: "Kramer",
       },
     ],
   },
   {
     thoughtText: "This is a sample thought about something else interesting.",
-    username: "Triss",
+    username: "George",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Yennefer",
+        username: "Jerry",
       },
       {
         reactionBody: "😄",
-        username: "Ciri",
+        username: "Kramer",
       },
     ],
   },
   {
     thoughtText: "This is a sample thought about something else interesting.",
-    username: "Ciri",
+    username: "Kramer",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Yennefer",
+        username: "Jerry",
       },
       {
         reactionBody: "😄",
-        username: "Triss",
+        username: "George",
       },
     ],
   },
   {
     thoughtText: "This is a sample thought about something else interesting.",
-    username: "Geralt",
+    username: "Elaine",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Yennefer",
+        username: "Jerry",
       },
       {
         reactionBody: "😄",
-        username: "Triss",
+        username: "George",
       },
     ],
   },

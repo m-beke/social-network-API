@@ -1,19 +1,19 @@
 const seedUsers = [
   {
-    username: "Yennefer",
-    email: "yennefer@gmail.com",
+    username: "Jerry",
+    email: "jerry@gmail.com",
   },
   {
-    username: "Triss",
-    email: "triss@gmail.com",
+    username: "George",
+    email: "george@gmail.com",
   },
   {
-    username: "Ciri",
-    email: "ciri@gmail.com",
+    username: "Kramer",
+    email: "kramer@gmail.com",
   },
   {
-    username: "Geralt",
-    email: "geralt@gmail.com",
+    username: "Elaine",
+    email: "elaine@gmail.com",
   },
 ];
 
